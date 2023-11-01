@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#f5f5f5;
+}
+.main-container {
+  width: 600px;
+  margin: 0 auto;
+	height:420px;
+	
+}
+
+.first{
+	border:black 1px solid;
+	padding:10px;
+	margin-bottom:16px;
+}
+
+.author {
+  text-align: right;
+  font-style: italic;
+}
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+}
